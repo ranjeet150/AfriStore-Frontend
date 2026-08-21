@@ -1,6 +1,5 @@
 # AfriStore-Frontend
 
-> **🟠 Priority:** High | **Difficulty:** Medium | **Estimated Effort:** 2–3 days
 
 The Next.js 16 frontend for the [Afristore Marketplace](https://github.com/Afristore/marketplace) — extracted from the monorepo into its own dedicated repository.
 
@@ -14,7 +13,7 @@ This application includes:
 
 ---
 
-## 🚀 Getting Started (once code is populated)
+##  Getting Started (once code is populated)
 
 ```bash
 npm install
@@ -26,7 +25,7 @@ npm run build         # Production build
 
 ---
 
-## 🔧 Environment Variables
+##  Environment Variables
 
 Copy `.env.example` to `.env.local` and fill in:
 
@@ -42,7 +41,7 @@ Copy `.env.example` to `.env.local` and fill in:
 
 ---
 
-## 📋 Source Location (Monorepo)
+##  Source Location (Monorepo)
 
 This repository is being extracted from [`afristore/frontend/afristore-app/`](https://github.com/Afristore/marketplace/tree/master/frontend/afristore-app) in the main monorepo.
 
@@ -50,7 +49,7 @@ This repository is being extracted from [`afristore/frontend/afristore-app/`](ht
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 1. Fork this repository
 2. Create a feature branch: `git checkout -b feat/your-feature`
@@ -63,7 +62,7 @@ This repository is being extracted from [`afristore/frontend/afristore-app/`](ht
 
 ---
 
-## 📦 Tech Stack
+##  Tech Stack
 
 - Next.js 16 / React 18 / TypeScript
 - `@stellar/freighter-api` + `magic-sdk`
@@ -73,6 +72,6 @@ This repository is being extracted from [`afristore/frontend/afristore-app/`](ht
 
 ---
 
-## 📄 License
+##  License
 
 MIT — see [LICENSE](./LICENSE)
